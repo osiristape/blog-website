@@ -8,6 +8,6 @@ Features to work on (Timelapse: 3 hours)
 - Categories
 - Blogs
 - Comments
-- Enhancements
+
 
 
